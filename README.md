@@ -27,3 +27,4 @@ The birth analysis dashboard focuses on answering the following questions throug
 4. Number of Births by Month: Display the number of births by month using bar chart. This visualization allows for the identification of seasonal or monthly variations in birth rates.
 
 
+![Birth trends dashboard image](https://github.com/Whitnie13/Birth-Trend-Analysis/assets/100426585/6d995a64-3ced-48ba-8075-0a9388610ba1)
